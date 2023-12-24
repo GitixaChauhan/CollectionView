@@ -9,7 +9,7 @@ import UIKit
 
 var eData = [
               EnterTainmentApp(sectionType: "Different Views", imageGallery: ["sunset1", "sunset3", "sunset4", "sunset5", "sunset1", "sunset3", "sunset4", "sunset5"]),
-              EnterTainmentApp(sectionType: "Animal Names", imageGallery: ["hourse", "fox", "tiger", "rabbit", "cat", "deer", "deer", "deer", "deer", "deer", "deer", "deer"]),
+              EnterTainmentApp(sectionType: "Animals Name", imageGallery: ["hourse", "fox", "tiger", "rabbit", "cat", "deer", "deer", "deer", "deer", "deer", "deer", "deer"]),
               EnterTainmentApp(sectionType: "Web Series", imageGallery: ["e", "c", "d", "e", "b"]),
               EnterTainmentApp(sectionType: "Fruits Name", imageGallery: ["apple", "mango", "apple", "mango"])
               
